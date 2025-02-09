@@ -1,0 +1,16 @@
+.btn {
+    background-color: white;
+}
+.btn2 {
+    background-color: aqua;
+}
+.btn3 {
+    background-color: yellow;
+}
+.btn4 {
+    background-color: yellow;
+    margin-bottom: 5px;
+}
+.dark {
+    background-color: #444;
+}
